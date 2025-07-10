@@ -7,11 +7,28 @@ body {
     display : flex;
     justify-content: center;
     align-items: center;
-    margin-top: 500px;
+    margin-top: 40px;
 }
 
 .city-input {
     height: 35px;
     width: 200px;
     padding-left: 15px;
+}
+
+.get-weather-btn {
+    height: 40px;
+    margin-left: 6px;
+}
+
+.weather-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+    height: 450px
 }
