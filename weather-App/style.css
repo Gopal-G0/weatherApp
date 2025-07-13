@@ -10,13 +10,13 @@ body {
     margin-top: 40px;
 }
 
-.city-input {
+#city-name {
     height: 35px;
     width: 200px;
     padding-left: 15px;
 }
 
-.get-weather-btn {
+.get-btn {
     height: 40px;
     margin-left: 6px;
 }
